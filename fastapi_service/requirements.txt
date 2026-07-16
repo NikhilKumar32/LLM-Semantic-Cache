@@ -1,0 +1,8 @@
+fastapi>=0.109.0
+uvicorn>=0.27.0
+pydantic>=2.5.0
+httpx>=0.26.0
+python-multipart>=0.0.9
+# Optional deep ML embeddings (uncomment if you want local PyTorch/SentenceTransformers):
+# numpy>=1.26.0
+# sentence-transformers>=2.3.0

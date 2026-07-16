@@ -1,0 +1,222 @@
+[
+  {
+    "_id": "audit_1784233488641_zkmrt",
+    "prompt": "A pod in my Kubernetes cluster keeps restarting and eventually enters CrashLoopBackOff. Walk me through the likely reasons and troubleshooting steps.",
+    "response": "Simulated high-quality AI response for: 'A pod in my Kubernetes cluster keeps restarting and eventually enters CrashLoopBackOff. Walk me through the likely reasons and troubleshooting steps.'. By using Semantic Caching, future queries with similar meaning will be answered instantly without repeating this LLM computation!",
+    "model": "gpt-4o-mini",
+    "cacheHit": true,
+    "similarityScore": 1.0000000212054998,
+    "latencyMs": 16.87,
+    "tokensSaved": 118,
+    "costSavedUsd": 0.000354,
+    "metadata": {
+      "model": "mistral-large",
+      "simulated": true
+    },
+    "timestamp": "2026-07-16T20:24:48.641Z"
+  },
+  {
+    "_id": "audit_1784233482228_ljljx",
+    "prompt": "A pod in my Kubernetes cluster keeps restarting and eventually enters CrashLoopBackOff. Walk me through the likely reasons and troubleshooting steps.",
+    "response": "Simulated high-quality AI response for: 'A pod in my Kubernetes cluster keeps restarting and eventually enters CrashLoopBackOff. Walk me through the likely reasons and troubleshooting steps.'. By using Semantic Caching, future queries with similar meaning will be answered instantly without repeating this LLM computation!",
+    "model": "mistral-large",
+    "cacheHit": true,
+    "similarityScore": 1.0000000212054998,
+    "latencyMs": 16.2,
+    "tokensSaved": 118,
+    "costSavedUsd": 0.000354,
+    "metadata": {
+      "model": "mistral-large",
+      "simulated": true
+    },
+    "timestamp": "2026-07-16T20:24:42.228Z"
+  },
+  {
+    "_id": "audit_1784233476106_1avdc",
+    "prompt": "A pod in my Kubernetes cluster keeps restarting and eventually enters CrashLoopBackOff. Walk me through the likely reasons and troubleshooting steps.",
+    "response": "Simulated high-quality AI response for: 'A pod in my Kubernetes cluster keeps restarting and eventually enters CrashLoopBackOff. Walk me through the likely reasons and troubleshooting steps.'. By using Semantic Caching, future queries with similar meaning will be answered instantly without repeating this LLM computation!",
+    "model": "mistral-large",
+    "cacheHit": false,
+    "similarityScore": 0,
+    "latencyMs": 467.49,
+    "tokensSaved": 0,
+    "costSavedUsd": 0,
+    "metadata": {
+      "model": "mistral-large"
+    },
+    "timestamp": "2026-07-16T20:24:36.106Z"
+  },
+  {
+    "_id": "audit_1784233460307_mfkdp",
+    "prompt": "My Kubernetes pod is stuck in CrashLoopBackOff. Explain what it means, common causes, and how to debug it.",
+    "response": "Simulated high-quality AI response for: 'My Kubernetes pod is stuck in CrashLoopBackOff. Explain what it means, common causes, and how to debug it.'. By using Semantic Caching, future queries with similar meaning will be answered instantly without repeating this LLM computation!",
+    "model": "mistral-large",
+    "cacheHit": true,
+    "similarityScore": 0.9999999825958104,
+    "latencyMs": 19.94,
+    "tokensSaved": 96,
+    "costSavedUsd": 0.000288,
+    "metadata": {
+      "model": "gpt-4o",
+      "simulated": true
+    },
+    "timestamp": "2026-07-16T20:24:20.307Z"
+  },
+  {
+    "_id": "audit_1784233456071_pb6y0",
+    "prompt": "My Kubernetes pod is stuck in CrashLoopBackOff. Explain what it means, common causes, and how to debug it.",
+    "response": "Simulated high-quality AI response for: 'My Kubernetes pod is stuck in CrashLoopBackOff. Explain what it means, common causes, and how to debug it.'. By using Semantic Caching, future queries with similar meaning will be answered instantly without repeating this LLM computation!",
+    "model": "gpt-4o-mini",
+    "cacheHit": true,
+    "similarityScore": 0.9999999825958104,
+    "latencyMs": 30.77,
+    "tokensSaved": 96,
+    "costSavedUsd": 0.000288,
+    "metadata": {
+      "model": "gpt-4o",
+      "simulated": true
+    },
+    "timestamp": "2026-07-16T20:24:16.071Z"
+  },
+  {
+    "_id": "audit_1784233451963_huc3f",
+    "prompt": "My Kubernetes pod is stuck in CrashLoopBackOff. Explain what it means, common causes, and how to debug it.",
+    "response": "Simulated high-quality AI response for: 'My Kubernetes pod is stuck in CrashLoopBackOff. Explain what it means, common causes, and how to debug it.'. By using Semantic Caching, future queries with similar meaning will be answered instantly without repeating this LLM computation!",
+    "model": "gpt-4o",
+    "cacheHit": true,
+    "similarityScore": 0.9999999825958104,
+    "latencyMs": 25.33,
+    "tokensSaved": 96,
+    "costSavedUsd": 0.000288,
+    "metadata": {
+      "model": "gpt-4o",
+      "simulated": true
+    },
+    "timestamp": "2026-07-16T20:24:11.963Z"
+  },
+  {
+    "_id": "audit_1784233450815_atjfl",
+    "prompt": "My Kubernetes pod is stuck in CrashLoopBackOff. Explain what it means, common causes, and how to debug it.",
+    "response": "Simulated high-quality AI response for: 'My Kubernetes pod is stuck in CrashLoopBackOff. Explain what it means, common causes, and how to debug it.'. By using Semantic Caching, future queries with similar meaning will be answered instantly without repeating this LLM computation!",
+    "model": "gpt-4o",
+    "cacheHit": true,
+    "similarityScore": 0.9999999825958104,
+    "latencyMs": 30.08,
+    "tokensSaved": 96,
+    "costSavedUsd": 0.000288,
+    "metadata": {
+      "model": "gpt-4o",
+      "simulated": true
+    },
+    "timestamp": "2026-07-16T20:24:10.815Z"
+  },
+  {
+    "_id": "audit_1784233449611_aot3m",
+    "prompt": "My Kubernetes pod is stuck in CrashLoopBackOff. Explain what it means, common causes, and how to debug it.",
+    "response": "Simulated high-quality AI response for: 'My Kubernetes pod is stuck in CrashLoopBackOff. Explain what it means, common causes, and how to debug it.'. By using Semantic Caching, future queries with similar meaning will be answered instantly without repeating this LLM computation!",
+    "model": "gpt-4o",
+    "cacheHit": true,
+    "similarityScore": 0.9999999825958104,
+    "latencyMs": 23.84,
+    "tokensSaved": 96,
+    "costSavedUsd": 0.000288,
+    "metadata": {
+      "model": "gpt-4o",
+      "simulated": true
+    },
+    "timestamp": "2026-07-16T20:24:09.611Z"
+  },
+  {
+    "_id": "audit_1784233447726_0wu7m",
+    "prompt": "My Kubernetes pod is stuck in CrashLoopBackOff. Explain what it means, common causes, and how to debug it.",
+    "response": "Simulated high-quality AI response for: 'My Kubernetes pod is stuck in CrashLoopBackOff. Explain what it means, common causes, and how to debug it.'. By using Semantic Caching, future queries with similar meaning will be answered instantly without repeating this LLM computation!",
+    "model": "gpt-4o",
+    "cacheHit": true,
+    "similarityScore": 0.9999999825958104,
+    "latencyMs": 38.83,
+    "tokensSaved": 96,
+    "costSavedUsd": 0.000288,
+    "metadata": {
+      "model": "gpt-4o",
+      "simulated": true
+    },
+    "timestamp": "2026-07-16T20:24:07.726Z"
+  },
+  {
+    "_id": "audit_1784233441827_yv9g0",
+    "prompt": "My Kubernetes pod is stuck in CrashLoopBackOff. Explain what it means, common causes, and how to debug it.",
+    "response": "Simulated high-quality AI response for: 'My Kubernetes pod is stuck in CrashLoopBackOff. Explain what it means, common causes, and how to debug it.'. By using Semantic Caching, future queries with similar meaning will be answered instantly without repeating this LLM computation!",
+    "model": "claude-3-5-sonnet",
+    "cacheHit": true,
+    "similarityScore": 0.9999999825958104,
+    "latencyMs": 26.98,
+    "tokensSaved": 96,
+    "costSavedUsd": 0.000288,
+    "metadata": {
+      "model": "gpt-4o",
+      "simulated": true
+    },
+    "timestamp": "2026-07-16T20:24:01.827Z"
+  },
+  {
+    "_id": "audit_1784233434934_z7e1b",
+    "prompt": "My Kubernetes pod is stuck in CrashLoopBackOff. Explain what it means, common causes, and how to debug it.",
+    "response": "Simulated high-quality AI response for: 'My Kubernetes pod is stuck in CrashLoopBackOff. Explain what it means, common causes, and how to debug it.'. By using Semantic Caching, future queries with similar meaning will be answered instantly without repeating this LLM computation!",
+    "model": "gpt-4o-mini",
+    "cacheHit": true,
+    "similarityScore": 0.9999999825958104,
+    "latencyMs": 28.33,
+    "tokensSaved": 96,
+    "costSavedUsd": 0.000288,
+    "metadata": {
+      "model": "gpt-4o",
+      "simulated": true
+    },
+    "timestamp": "2026-07-16T20:23:54.935Z"
+  },
+  {
+    "_id": "audit_1784233414435_ru6i0",
+    "prompt": "My Kubernetes pod is stuck in CrashLoopBackOff. Explain what it means, common causes, and how to debug it.",
+    "response": "Simulated high-quality AI response for: 'My Kubernetes pod is stuck in CrashLoopBackOff. Explain what it means, common causes, and how to debug it.'. By using Semantic Caching, future queries with similar meaning will be answered instantly without repeating this LLM computation!",
+    "model": "gpt-4o",
+    "cacheHit": false,
+    "similarityScore": 0,
+    "latencyMs": 473.22,
+    "tokensSaved": 0,
+    "costSavedUsd": 0,
+    "metadata": {
+      "model": "gpt-4o"
+    },
+    "timestamp": "2026-07-16T20:23:34.435Z"
+  },
+  {
+    "_id": "audit_1784233382760_l4ydq",
+    "prompt": "How does useEffect work in React and what are dependencies?",
+    "response": "In React, the `useEffect` hook allows you to perform side effects in functional components, such as fetching data or subscribing to events. Make sure to specify a dependency array `[]` so it only runs when necessary:\n```jsx\nuseEffect(() => {\n  fetchData();\n}, []);\n```",
+    "model": "gpt-4o",
+    "cacheHit": false,
+    "similarityScore": 0,
+    "latencyMs": 458.55,
+    "tokensSaved": 0,
+    "costSavedUsd": 0,
+    "metadata": {
+      "model": "gpt-4o"
+    },
+    "timestamp": "2026-07-16T20:23:02.760Z"
+  },
+  {
+    "_id": "audit_1784233323900_549tu",
+    "prompt": "Explain useEffect hook in React and dependency array.",
+    "response": "In React, the `useEffect` hook allows you to perform side effects in functional components, such as fetching data or subscribing to events. Make sure to specify a dependency array `[]` so it only runs when necessary:\n```jsx\nuseEffect(() => {\n  fetchData();\n}, []);\n```",
+    "model": "gpt-4o",
+    "cacheHit": false,
+    "similarityScore": 0,
+    "latencyMs": 457.81,
+    "tokensSaved": 0,
+    "costSavedUsd": 0,
+    "metadata": {
+      "model": "gpt-4o"
+    },
+    "timestamp": "2026-07-16T20:22:03.901Z"
+  }
+]
